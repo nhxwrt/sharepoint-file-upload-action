@@ -1,5 +1,5 @@
 # action.yaml
-name: 'Upload File to Sharepoint'
+name: 'NHX Upload File to Sharepoint'
 description: 'Upload one or more files in a directory to Sharepoint site using client ID'
 inputs:
   file_path:
