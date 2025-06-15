@@ -1,6 +1,9 @@
 # action.yaml
 name: 'NHX Upload File to Sharepoint'
 description: 'Upload one or more files in a directory to Sharepoint site using client ID'
+branding:
+  icon: activity
+  color: orange
 inputs:
   file_path:
     description: 'Source file path (glob ok)'
